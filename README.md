@@ -8,6 +8,7 @@ Criando um sistema financeiro com interface em python
 - tkinter
 - pillow
 - matplotlib
+- tkcalendar
 
 # Video sendo seguido:
 https://www.youtube.com/playlist?list=PLGFzROSPU9oVmKLaFCZPeJWOCLhyIlYVY
